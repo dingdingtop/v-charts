@@ -18,11 +18,21 @@ export const DEFAULT_THEME = {
 }
 
 export const DEFAULT_COLORS = [
-  '#19d4ae', '#5ab1ef', '#fa6e86',
-  '#ffb980', '#0067a6', '#c4b4e4',
-  '#d87a80', '#9cbbff', '#d9d0c7',
-  '#87a997', '#d49ea2', '#5b4947',
-  '#7ba3a8'
+  '#1890FF',
+  '#41D9C7',
+  '#2FC25B',
+  '#FACC14',
+  '#E6965C',
+  '#223273',
+  '#7564CC',
+  '#8543E0',
+  '#5C8EE6',
+  '#13C2C2',
+  '#5CA3E6',
+  '#3436C7',
+  '#B381E6',
+  '#F04864',
+  '#D598D9'
 ]
 
 export const HEAT_MAP_COLOR = [
